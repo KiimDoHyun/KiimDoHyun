@@ -2,7 +2,9 @@
 
 <br>
 
-# Frondend Developer
+<div>
+<h1>Front-end Developer</h1>
+</div>
 
 <div align=center> 
 <h2>📚Main Tech</h2>
@@ -27,25 +29,17 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
-<br>
+<br><br>
 
----
-
-<br>
-
-## 📃 My Blog
+<h2>📃 My Blog</h2>
 
 https://velog.io/@kdh123
 
-## 💻 My Page
+<h2>💻 My Page</h2>
 
 https://kiimdohyun.github.io/KiimDoHyun-portfolio_window/
 
-<br>
-
----
-
-<br>
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=KiimDoHyun&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiimDoHyun&layout=compact">
