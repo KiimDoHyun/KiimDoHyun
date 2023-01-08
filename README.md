@@ -2,12 +2,10 @@
 
 <br>
 
-<div>
 <h1>Front-end Developer</h1>
-</div>
 
 <div align=center> 
-<h2>📚Main Tech</h2>
+<h3>📚Main Tech</h3>
 </div>
 
 <div align=center>
@@ -20,7 +18,7 @@
 </div>
 
 <div align=center> 
-<h2>📌Sub Tech</h2>
+<h3>📌Sub Tech</h3>
 </div>
 
 <div align=center>
