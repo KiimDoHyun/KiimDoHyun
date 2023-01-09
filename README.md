@@ -1,16 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=김도현&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=김도현&fontSize=90" />
 
 <br>
 
 <h1>Front-end Developer</h1>
-
-<h2>📃 My Blog</h2>
-
-https://velog.io/@kdh123
-
-<h2>💻 My Page</h2>
-
-https://kiimdohyun.github.io/KiimDoHyun-portfolio_window/
 
 <div align=center> 
 <h3>📚Main Tech</h3>
@@ -37,6 +29,21 @@ https://kiimdohyun.github.io/KiimDoHyun-portfolio_window/
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KiimDoHyun&show_icons=true">
+<h1>About Me</h1>
+
+<h3>📃 My Blog</h3>
+
+https://velog.io/@kdh123
+
+<h3>💻 My Page</h3>
+
+https://kiimdohyun.github.io/KiimDoHyun-portfolio_window/
+
+<br><br>
+
+<div align=center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiimDoHyun&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=KiimDoHyun&show_icons=true">
+
+</div>
