@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Front-end Developer 김도현&fontSize=40" />
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Front-end Developer 김도현&fontSize=50" />
 
 <h1>About Tech</h1>
 
