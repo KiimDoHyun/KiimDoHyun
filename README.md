@@ -4,6 +4,14 @@
 
 <h1>Front-end Developer</h1>
 
+<h2>📃 My Blog</h2>
+
+https://velog.io/@kdh123
+
+<h2>💻 My Page</h2>
+
+https://kiimdohyun.github.io/KiimDoHyun-portfolio_window/
+
 <div align=center> 
 <h3>📚Main Tech</h3>
 </div>
@@ -29,18 +37,6 @@
 
 <br><br>
 
-<h2>📃 My Blog</h2>
-
-https://velog.io/@kdh123
-
-<h2>💻 My Page</h2>
-
-https://kiimdohyun.github.io/KiimDoHyun-portfolio_window/
-
-<br><br>
-
 <img src="https://github-readme-stats.vercel.app/api?username=KiimDoHyun&show_icons=true">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiimDoHyun&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiimDoHyun&layout=compact">
