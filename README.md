@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=김도현&fontSize=90" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=김도현&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Front-end Developer&fontSize=60" />
 <br>
 
-<h1>Front-end Developer</h1>
+<h1>About Tech</h1>
 
 <div align=center> 
 <h3>📚Main Tech</h3>
@@ -15,6 +15,8 @@
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 </div>
+
+<br>
 
 <div align=center> 
 <h3>📌Sub Tech</h3>
@@ -35,11 +37,13 @@
 
 https://velog.io/@kdh123
 
+<br>
 <h3>💻 My Page</h3>
 
 https://kiimdohyun.github.io/KiimDoHyun-portfolio_window/
 
-<br><br>
+<br>
+<h3>⚙ My Git</h3>
 
 <div align=center>
 
